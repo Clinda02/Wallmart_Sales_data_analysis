@@ -8,7 +8,7 @@
 
 ## 2. 데이터 설명
 - 데이터 출처 : [Kaggle의 Wallmart 데이터셋](https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset) 
-- 데이터 상제 : 약 55만개의 사용자 거래 내역과 10개의 특징 (550068, 10)
+- 데이터 상제 : 약 55만 개의 사용자 거래 내역과 10개의 특징 (550068, 10)
   - `User_ID`: 사용자 ID
   - `Product_ID`: 제품 ID
   - `Gender`: 사용자의 성별
