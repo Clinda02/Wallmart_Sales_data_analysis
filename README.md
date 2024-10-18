@@ -1,4 +1,4 @@
-# Wallmart 데이터 분석
+# Wallmart 구매 데이터 분석
 
 ## 1. 프로젝트 개요
 <img src="https://github.com/user-attachments/assets/a57a4309-f336-4c08-b55b-402c2223dbc4" width="500" height="300"/>
