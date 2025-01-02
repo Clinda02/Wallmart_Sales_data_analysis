@@ -1,9 +1,9 @@
 # Indian E-commerce 대시보드 구축
 
 ## 1. 프로젝트 개요
-<img src="https://github.com/user-attachments/assets/1d23d282-4706-431a-83b0-a3776d768d64" width="300" height="250"/>
-<img src="https://github.com/user-attachments/assets/bb29193b-ca4d-4424-ac06-87e7cacc0458" width="350" height="250"/>
-<img src="https://github.com/user-attachments/assets/3666af35-c24c-4d9e-9d8f-4a1498b57c18" width="350" height="250"/>
+<img src="https://github.com/user-attachments/assets/1d23d282-4706-431a-83b0-a3776d768d64" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/bb29193b-ca4d-4424-ac06-87e7cacc0458" width="350" height="300"/>
+<img src="https://github.com/user-attachments/assets/3666af35-c24c-4d9e-9d8f-4a1498b57c18" width="350" height="300"/>
 
 
 
