@@ -1,4 +1,4 @@
-# Indian E-commerce 데이터 분석 및 대시보드 구축
+# Indian E-commerce 대시보드 구축
 
 ## 1. 프로젝트 개요
 <img src="https://github.com/user-attachments/assets/26897f67-ae2b-4ca7-846c-3a511c8b9451" width="800" height="200"/>
