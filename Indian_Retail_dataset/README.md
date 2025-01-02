@@ -1,10 +1,10 @@
 # Indian E-commerce 데이터 분석 및 대시보드 구축
 
 ## 1. 프로젝트 개요
-<img src="https://github.com/user-attachments/assets/26897f67-ae2b-4ca7-846c-3a511c8b9451" width="800" height="300"/>
+<img src="https://github.com/user-attachments/assets/26897f67-ae2b-4ca7-846c-3a511c8b9451" width="800" height="200"/>
 
 [Kaggle의 E-commerce 데이터셋](https://www.kaggle.com/datasets/benroshan/ecommerce-data?select=List+of+Orders.csv) 분석 프로젝트입니다. 데이터 전처리, 탐색적 데이터 분석(EDA)을 통한 데이터의 분포를 확인하고, 월별/지역별/카테고리별 구매고객 특징을 파악하여 마케팅 전략을 도출합니다.  
-이 프로젝트의 목표는 구매 데이터의 추이량을 분석하고, 이를 바탕으로 Streamlit을 활용한 시각화 대시보드를 구축해 실시간 마케팅 전략을 제시하는 것입니다. 
+이 프로젝트의 목표는 Streamlit을 활용한 시각화 대시보드를 구축해 실시간으로 e-commerce 구매 데이터의 추이량을 파악하고, 이를 바탕으로 마케팅 전략을 제시하는 것입니다. 
 
 ## 2. 데이터 설명
 - 데이터 출처 : [Kaggle의 E-commerce 데이터셋](https://www.kaggle.com/datasets/benroshan/ecommerce-data?select=List+of+Orders.csv)
